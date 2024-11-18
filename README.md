@@ -43,4 +43,4 @@ Aplikacja jest udostępniana na licencji MIT.
 
 ## Kontakt
 
-Jeśli masz jakieś pytania lub sugestie, skontaktuj się ze mną pod adresem [Twój adres email].
+Jeśli masz jakieś pytania lub sugestie, skontaktuj się ze mną pod adresem Bosyjjakub@gmail.com
